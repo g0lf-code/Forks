@@ -1,4 +1,6 @@
 # Forks
 An webapp which helps choose cuisine among thousands of recipes
 
-"npm run start" to start drooling
+"npm run start" to start drooling.
+
+please install required modules from npm.
